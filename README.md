@@ -2,5 +2,6 @@
 
 This project is about deploying ML application in AWS sagemaker
 
-## steps ##
+## refer research.ipynb for code##
+
 
